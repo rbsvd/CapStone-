@@ -1,1 +1,1 @@
-This is my " Google Advanced Data Analytics Capstone " project whcih I have done in activity by taking instructions activity exampler.
+This is my " Google Advanced Data Analytics Capstone " project which I have done in activity by taking instructions activity exampler.
